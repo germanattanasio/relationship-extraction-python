@@ -26,6 +26,10 @@ From .txt to .xml:
 ```sh
 cat article.txt | python main.py > article.xml
 ```
+## License
+
+This library is licensed under Apache 2.0. Full license text is
+available in [COPYING](https://github.com/watson-developer-cloud/nodejs-wrapper/blob/master/LICENSE).
 
 ## Open Source @ IBM
   Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
